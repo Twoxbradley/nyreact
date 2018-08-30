@@ -21,7 +21,7 @@ const Footer = (props) => {
                             New York Times Article Scrubber
                         </CardTitle>
                         <CardText><b>Copyright &copy; 2018</b></CardText>
-                        <a href="https://github.com/philipstubbs13/NYT-React-Search" target="_blank" rel="noopener noreferrer" className="footer-button">
+                        <a href="https://twoxbradley.github.io/nyreact/" target="_blank" rel="noopener noreferrer" className="footer-button">
                             <Button size="lg">GitHub Repo</Button>
                         </a>
                         <a href="www.linkedin.com/in/jbradleyjr" target="_blank" rel="noopener noreferrer" className="footer-button btn-lg">
